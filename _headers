@@ -68,13 +68,6 @@
   Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-442ae93d3e18fdd77f53.js>; rel=preload; as=script
-/certified-kubernetes-application-developer
-  Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </app-a2c2399382ec68737388.js>; rel=preload; as=script
-  Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-442ae93d3e18fdd77f53.js>; rel=preload; as=script
 /about
   Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
@@ -82,13 +75,6 @@
   Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-a8a7539244e28cc6015b.js>; rel=preload; as=script
-/tags/ckad
-  Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </app-a2c2399382ec68737388.js>; rel=preload; as=script
-  Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-d3203c363eb09ce3ff1c.js>; rel=preload; as=script
 /tags/distributed-computing
   Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
@@ -96,21 +82,7 @@
   Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-d3203c363eb09ce3ff1c.js>; rel=preload; as=script
-/tags/k-8-s
-  Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </app-a2c2399382ec68737388.js>; rel=preload; as=script
-  Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-d3203c363eb09ce3ff1c.js>; rel=preload; as=script
 /tags/kafka
-  Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </app-a2c2399382ec68737388.js>; rel=preload; as=script
-  Link: </styles-2c3ea41ae3281f2424df.js>; rel=preload; as=script
-  Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-d3203c363eb09ce3ff1c.js>; rel=preload; as=script
-/tags/kubernetes
   Link: </webpack-runtime-d0bb448d830986ff3858.js>; rel=preload; as=script
   Link: </commons-d2070927b8382e971924.js>; rel=preload; as=script
   Link: </app-a2c2399382ec68737388.js>; rel=preload; as=script
