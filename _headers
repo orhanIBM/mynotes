@@ -11,7 +11,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js
   Cache-Control: public, max-age=31536000, immutable
-/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-5338186b8d973de92cbe.js
+/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-ef7691c0128f65df4c49.js
   Cache-Control: public, max-age=31536000, immutable
 /component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-970be14a9aae153925c1.js
   Cache-Control: public, max-age=31536000, immutable
@@ -25,7 +25,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---node-modules-gatsby-plugin-offline-app-shell-js-92db451aa9797c60e79a.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-168e2cb71ce45aac7ce7.js
+/webpack-runtime-c2d04602ea5b45e0ec00.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-cd3e1e804d552fa282ef.js
   Cache-Control: public, max-age=31536000, immutable
@@ -36,16 +36,16 @@
 /sw.js
   Cache-Control: no-cache
 /mynotes/
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
   Link: </mynotes/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
-  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-5338186b8d973de92cbe.js>; rel=preload; as=script
+  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-ef7691c0128f65df4c49.js>; rel=preload; as=script
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/blog
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -54,7 +54,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -63,7 +63,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/nginx
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -71,17 +71,8 @@
   Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/nginx/page-data.json>; rel=preload; as=fetch; crossorigin
-/mynotes/red-hat-open-shift-i-containers-kubernetes
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
-  Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
-  Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
-  Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </mynotes/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
-  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
-  Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </mynotes/page-data/red-hat-open-shift-i-containers-kubernetes/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/do-288-red-hat-open-shift-development-ii-containerizing-applications
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -89,8 +80,17 @@
   Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/do-288-red-hat-open-shift-development-ii-containerizing-applications/page-data.json>; rel=preload; as=fetch; crossorigin
+/mynotes/red-hat-open-shift-i-containers-kubernetes
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
+  Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
+  Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mynotes/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
+  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
+  Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mynotes/page-data/red-hat-open-shift-i-containers-kubernetes/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/appsody-and-tekton
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -99,7 +99,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/appsody-and-tekton/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/kafka-101
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -108,7 +108,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/kafka-101/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/certified-kubernetes-application-developer
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -117,7 +117,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/certified-kubernetes-application-developer/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/about
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -126,7 +126,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/ckad
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -135,7 +135,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/ckad/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/containers
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -144,7 +144,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/containers/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/distributed-computing
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -153,7 +153,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/distributed-computing/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/docker
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -162,7 +162,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/docker/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/k-8-s
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -171,7 +171,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/k-8-s/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/kafka
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -180,7 +180,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/kafka/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/kubernetes
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -189,7 +189,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/kubernetes/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/open-shift
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -198,7 +198,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/open-shift/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/podman
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -207,7 +207,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/podman/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/tutorial
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -216,7 +216,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/tutorial/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/nginx
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -225,7 +225,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/nginx/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/open-shift-ocp-cloud-pak-for-application
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -234,7 +234,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/open-shift-ocp-cloud-pak-for-application/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/udemy
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
@@ -243,7 +243,7 @@
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/udemy/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/offline-plugin-app-shell-fallback/
-  Link: </mynotes/webpack-runtime-168e2cb71ce45aac7ce7.js>; rel=preload; as=script
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </mynotes/app-c1f45bb6a1d5dd902077.js>; rel=preload; as=script
   Link: </mynotes/component---node-modules-gatsby-plugin-offline-app-shell-js-92db451aa9797c60e79a.js>; rel=preload; as=script
