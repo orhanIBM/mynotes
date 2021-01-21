@@ -71,15 +71,6 @@
   Link: </blog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
   Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </blog/page-data/nginx/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/do-288-red-hat-open-shift-development-ii-containerizing-applications
-  Link: </blog/webpack-runtime-eba43705d54d4024ee36.js>; rel=preload; as=script
-  Link: </blog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
-  Link: </blog/app-9b41b08fcd47a4c2d148.js>; rel=preload; as=script
-  Link: </blog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </blog/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
-  Link: </blog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
-  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </blog/page-data/do-288-red-hat-open-shift-development-ii-containerizing-applications/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/red-hat-open-shift-i-containers-kubernetes
   Link: </blog/webpack-runtime-eba43705d54d4024ee36.js>; rel=preload; as=script
   Link: </blog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -89,6 +80,15 @@
   Link: </blog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
   Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </blog/page-data/red-hat-open-shift-i-containers-kubernetes/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/do-288-red-hat-open-shift-development-ii-containerizing-applications
+  Link: </blog/webpack-runtime-eba43705d54d4024ee36.js>; rel=preload; as=script
+  Link: </blog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </blog/app-9b41b08fcd47a4c2d148.js>; rel=preload; as=script
+  Link: </blog/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </blog/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
+  Link: </blog/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/do-288-red-hat-open-shift-development-ii-containerizing-applications/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/appsody-and-tekton
   Link: </blog/webpack-runtime-eba43705d54d4024ee36.js>; rel=preload; as=script
   Link: </blog/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
