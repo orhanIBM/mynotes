@@ -4,8 +4,8 @@
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/nginx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://orhanibm.github.io/mynotes/mynotes/do-288-red-hat-open-shift-development-ii-containerizing-applications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/red-hat-open-shift-i-containers-kubernetes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://orhanibm.github.io/mynotes/mynotes/do-288-red-hat-open-shift-development-ii-containerizing-applications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/appsody-and-tekton</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/kafka-101</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://orhanibm.github.io/mynotes/mynotes/certified-kubernetes-application-developer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
