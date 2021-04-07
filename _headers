@@ -62,6 +62,15 @@
   Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-35d09f4d1f6a70300fce.js>; rel=preload; as=script
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/mynotes/aws-certified-solutions-architect-associate
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
+  Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </mynotes/app-1f20be592a394a764a7f.js>; rel=preload; as=script
+  Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mynotes/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
+  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-6737aa013d3c04e428fe.js>; rel=preload; as=script
+  Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mynotes/page-data/aws-certified-solutions-architect-associate/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/nginx
   Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -125,6 +134,15 @@
   Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-f21d4c210ef48db3324f.js>; rel=preload; as=script
   Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </mynotes/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/mynotes/tags/aws
+  Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
+  Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </mynotes/app-1f20be592a394a764a7f.js>; rel=preload; as=script
+  Link: </mynotes/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </mynotes/aed2e917f30c051bccba91aa15989a75fd0bd633-d17b8c942a633f09f0d3.js>; rel=preload; as=script
+  Link: </mynotes/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-6d5261cb188f0457dd2e.js>; rel=preload; as=script
+  Link: </mynotes/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </mynotes/page-data/tags/aws/page-data.json>; rel=preload; as=fetch; crossorigin
 /mynotes/tags/ckad
   Link: </mynotes/webpack-runtime-c2d04602ea5b45e0ec00.js>; rel=preload; as=script
   Link: </mynotes/framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
